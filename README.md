@@ -25,6 +25,6 @@ Senior Web Developer @ zu | Building for the web with ❤️
 
 ###  GitHub Stats
 
-![Max's GitHub stats](https://github-readme-stats-eosin-ten-50.vercel.app/api?username=MaximilianGewers&show_icons=true&hide_border=true&theme=tokyonight)
+![Max's GitHub stats](https://github-readme-stats-eosin-ten-50.vercel.app/api?username=MaximilianGewers&show_icons=true&hide_border=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats-eosin-ten-50.vercel.app/api/top-langs/?username=MaximilianGewers&layout=compact&hide_border=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats-eosin-ten-50.vercel.app/api/top-langs/?username=MaximilianGewers&layout=compact&hide_border=true&theme=github_dark)
