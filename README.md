@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Max  
 
-Senior Web Developer @ zu | Building for the web with ❤️  
+Senior Web Developer @ Sonar | Building for the web with ❤️  
 
 - 🖥️ Backend dev at heart (Symfony + API design), but comfortable fullstack  
 - ⚡ Big fan of Symfony, Turbo & UX initiative
